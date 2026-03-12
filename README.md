@@ -119,7 +119,7 @@ const shubhamYadav = {
 ## 🏅 Achievements
 
 ### 🎯 Data Structures and Algorithms
-- ⭐ **300+ Problems** solved on LeetCode
+- ⭐ **400+ Problems** solved on LeetCode
 
 ---
 
