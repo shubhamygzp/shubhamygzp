@@ -35,13 +35,6 @@ const shubhamYadav = {
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-### 🌟 Quick Highlights
-
-- ⭐ **400+** Problems Solved on LeetCode
-- 💼 **Software Developer Intern** at Printila
-
----
-
 ## 💻 Tech Stack
 
 ### Languages
@@ -116,13 +109,6 @@ const shubhamYadav = {
 
 ---
 
-## 🏅 Achievements
-
-### 🎯 Data Structures and Algorithms
-- ⭐ **400+ Problems** solved on LeetCode
-
----
-
 ## 📈 Coding Profile
 
 <div align="center" style="display: flex; justify-content: center; align-items: center; flex-wrap: wrap; gap: 20px;">
@@ -131,7 +117,7 @@ const shubhamYadav = {
     <a href="https://leetcode.com/u/shubhamygzp/" target="_blank">
       <img src="https://leetcode.card.workers.dev/shubhamygzp?theme=dark&font=baloo&extension=null" alt="LeetCode Stats" width="400" />
     </a>
-    <p>⭐ <b>300+ Problems</b> solved on LeetCode</p>
+    <p>⭐ <b>400+ Problems</b> solved on LeetCode</p>
   </div>
 </div>
 
