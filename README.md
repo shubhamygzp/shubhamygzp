@@ -37,7 +37,7 @@ const shubhamYadav = {
 
 ### 🌟 Quick Highlights
 
-- ⭐ **300+** Problems Solved on LeetCode
+- ⭐ **400+** Problems Solved on LeetCode
 - 💼 **Software Developer Intern** at Printila
 
 ---
