@@ -1,4 +1,4 @@
-# Hi there, I'm Shubham Yadav! 👋
+# Hey! I'm Shubham Yadav! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9AFF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
