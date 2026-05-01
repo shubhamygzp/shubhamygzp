@@ -1,7 +1,6 @@
-# Hey! I'm Shubham Yadav! 👋
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2E9AFF&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver" alt="Typing SVG" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2ecc71,100:a8e063&height=250&section=header&text=Shubham%20Yadav&fontSize=70&fontColor=ffffff&animation=fadeIn&fontAlignY=45"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2ECC71&center=true&vCenter=true&multiline=true&width=600&height=120&lines=Full+Stack+Developer;AI+%26+ML+Enthusiast;Problem+Solver" />
 </div>
 
 <div align="center" style="margin-top: 20px;">
@@ -22,7 +21,7 @@
 
 ```javascript
 const shubhamYadav = {
-    location: "West Bengal, India",
+    location: "Kalyani, West Bengal, India",
     education: {
         degree: "Bachelor of Technology in Electronics and Communication Engineering",
         institution: "Indian Institute of Information Technology, Kalyani",
@@ -69,42 +68,12 @@ const shubhamYadav = {
 
 ---
 
-
-
----
-
-## 🏆 Featured Projects
-
-### 🏥 [ChatSphere - A Real Time Chat Apllication](https://chatsphere-c93n.onrender.com/)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C851?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://chatsphere-c93n.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamygzp/ChatSphere)
-
-**Tech Stack:** Node.js, Express.js, MongoDB, React.js, Tailwind CSS, DaisyUI, socket.io
-**Highlights:**
-- 🚀 Built a real-time one-to-one chat application using Socket.IO for low-latency bidirectional messaging
-- 🤖 Enhanced a scalable Node.js–Express backend with JWT authentication, 10+ secure REST APIs
-- ☁️ Executed MongoDB persistence with indexed schemas for users and messages, handling 1000+ chat records efficiently
-
-### 🐾 [HomeHaven - Travel and Listing](https://airbnb-project-ievr.onrender.com/)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-00C851?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://airbnb-project-ievr.onrender.com/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/shubhamygzp/HomeHaven)
-
-**Tech Stack:** Node.js, Express.js, MongoDB, HTML, CSS, JavaScript
-**Highlights:**
-- 🏆 Designed a full-stack MERN-based Airbnb enabling users to browse, list, and manage rental properties with secure authentication using Passport.js
-- 🗺️ Structured the application using MVC (Model-View-Controller) architecture for maintainability and scalability
-- 🔍 Deployed the application on Render for reliable cloud hosting
-- 📱 Backend optimized to handle 50% more users with faster API responses
-- 🎯 Improved the dashboard’s data processing pipeline, allowing at least 750+ listings and decreasing average API response time to under 350ms, improving user experience
-
----
-
 ## 💼 Professional Experience
 
 ### 💻 Software Developer Intern | Printila
 **Tech Stack:** React.js, JavaScript, Node.js, MongoDB, JWT
 - ⚡ Developed and maintained a MERN stack appointment booking system improving user engagement by 30%
-- 🧩 Implemented real-time scheduling updates via WebSocket, ensuring instant synchronization and improved communication between clients and service providers
+- 🧩 Implemented real-time scheduling updates via WebSocket, ensuring instant synchronization and improved communication
 - 🛡️ Enhanced MongoDB queries and backend logic, improving scalability and reducing response latency
 
 ---
@@ -145,6 +114,27 @@ Open_to:
   - Build more AI-powered applications
   - Achieve a Great Placement Opportunity
 ```
+
+---
+
+## 📊 GitHub Stats
+
+<br/>
+
+<div align="center">
+
+
+<!-- STREAK STATS -->
+<img width="70%" src="https://streak-stats.demolab.com/?user=shubhamygzp&theme=transparent&background=0d1117&border=2ECC71&ring=2ECC71&fire=2ECC71&currStreakNum=ffffff&currStreakLabel=2ECC71&sideNums=a8e063&sideLabels=2ECC71&dates=a8e063&stroke=2ECC71" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- CONTRIBUTION GRAPH -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=shubhamygzp&bg_color=0d1117&color=2ECC71&line=2ECC71&point=A8E063&area=true&area_color=14532d&hide_border=false&custom_title=🌿%20My%20Contribution%20Journey&radius=16" alt="Contribution Activity Graph"/>
+
+<br/><br/>
+
+</div>
 
 ---
 
